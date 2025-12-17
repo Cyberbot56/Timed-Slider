@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color: gray;
+}
+
+#slider{
+    border-radius: 50px;
+    border-color: rgb(163, 177, 177);
+    border-style: groove;
+}
+
+h1{
+    color: rgb(163, 177, 177);
+}
